@@ -3,8 +3,6 @@
 <pre>
 I'm Backend Software Engineer.
 I have a desire to learn more and grow more.
-I love make module in js.
-My stack is Java & Node.js!!
 </pre>
 <h2>School</h2>
 <p>
@@ -15,8 +13,7 @@ My stack is Java & Node.js!!
 <p>
   <ul>
     <li>☕Java</li>
-    <li>💻Spring Boot</li>
-    <li>✨Node.js -> express.js, nest.js</li>
+    <li>💻Spring Boot, Spring Jpa, Security</li>
   </ul>
 </p>
 
