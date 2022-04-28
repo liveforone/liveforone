@@ -1,8 +1,10 @@
 <h1>Hello👋 I'm Chan Kim</h1>
+<h2>about me</h2>
 <pre>
 I'm Backend Software Engineer.
-I love Java & Spring.
 I have a desire to learn more and grow more.
+I love make module in js.
+My stack is Java & Node.js!!
 </pre>
 <h2>School</h2>
 <p>
@@ -14,8 +16,7 @@ I have a desire to learn more and grow more.
   <ul>
     <li>☕Java</li>
     <li>💻Spring Boot</li>
-    <li>Spring Data Jpa</li>
-    <li>Spring Security</li>
+    <li>✨Node.js -> express.js, nest.js</li>
   </ul>
 </p>
 
