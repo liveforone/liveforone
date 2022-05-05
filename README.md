@@ -6,7 +6,7 @@ I have a desire to learn more and grow more.
 I love node.js, It can make website fastly.
 And i love Java - spring too, it is basic of oop-website.
 I love backend. Make serverside is very funny.
-Last, I always use builder pattern. 
+In Last, I always use builder pattern. 
 </pre>
 <h2>School</h2>
 <p>
