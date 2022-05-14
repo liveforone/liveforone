@@ -3,10 +3,8 @@
 <pre>
 I'm Backend Software Engineer.
 I have a desire to learn more and grow more.
-I love node.js, It can make website fastly.
-And i love Java - spring too, it is basic of oop-website.
-I love backend. Make serverside is very funny.
-In Last, I always use builder pattern. 
+My main stack is Java-Spring & Jpa
+I love backend. Making serverside is very funny.
 </pre>
 <h2>School</h2>
 <p>
@@ -16,10 +14,9 @@ In Last, I always use builder pattern.
 <h2>Skill</h2>
 <p>
   <ul>
-    <li>Node.js</li>
-    <li>Express.js, Nest.js, TypeScript</li>
     <li>☕Java</li>
     <li>💻Spring Boot, Spring Jpa, Security</li>
+    <li>Node.js - Express.js</li>
   </ul>
 </p>
 
