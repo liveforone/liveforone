@@ -2,7 +2,7 @@
 <h2>about me</h2>
 <pre>
 I'm Backend Software Engineer.
-I have a desire to learn more and grow more.
+I have a desire to learn and grow more.
 My main stack is Java-Spring & Jpa
 I love backend. Making serverside is very funny.
 </pre>
