@@ -3,8 +3,8 @@
 <pre>
 I'm Backend Software Engineer.
 I have a desire to learn and grow more.
-My main stack is Java-Spring & Jpa
 I love backend. Making serverside is very funny.
+I'm interested in node.js!! and express too
 </pre>
 <h2>School</h2>
 <p>
