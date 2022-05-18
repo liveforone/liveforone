@@ -14,9 +14,9 @@ I love backend. Making serverside is very funny.
 <h2>Skill</h2>
 <p>
   <ul>
+    <li>Node.js - Express.js</li>
     <li>☕Java</li>
     <li>💻Spring Boot, Spring Jpa, Security</li>
-    <li>Node.js - Express.js</li>
   </ul>
 </p>
 
