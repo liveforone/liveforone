@@ -14,9 +14,9 @@ I'm interested in node.js!! and Spring too
 <h2>Skill</h2>
 <p>
   <ul>
-    <li>Node.js - Express.js</li>
-    <li>☕Java</li>
     <li>💻Spring Boot, Spring Jpa, Security</li>
+    <li>☕Java</li>
+    <li>MySql</li>
   </ul>
 </p>
 
