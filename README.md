@@ -20,6 +20,13 @@ I'm interested in node.js!! and Spring too
   </ul>
 </p>
 
+<h2>Etc..</h2>
+<pre>
+모든 포트폴라오 및 토이프로젝트 7개는 비공개로 전환하였습니다.
+해당 코드들은 취업시 사용될 코드 입니다.
+공개된 repo들은 fork 하셔도 상관없습니다.
+</pre>
+
 
 <!--
 **liveforone/liveforone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
