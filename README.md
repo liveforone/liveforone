@@ -2,9 +2,8 @@
 <h2>about me</h2>
 <pre>
 I'm Backend Software Engineer.
+I'm very interested in the text-based community.
 I have a desire to learn and grow more.
-I love backend. Making serverside is very funny.
-I'm interested in node.js!! and Spring too
 </pre>
 <h2>School</h2>
 <p>
