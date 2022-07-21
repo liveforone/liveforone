@@ -2,7 +2,7 @@
 <h2>about me</h2>
 <pre>
 I'm Backend Software Engineer.
-I'm very interested in the text-based community.
+I'm very interested in the text-based service.
 I have a desire to learn and grow more.
 </pre>
 <h2>School</h2>
