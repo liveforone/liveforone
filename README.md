@@ -13,7 +13,7 @@ I have a desire to learn and grow more.
 <h2>Skill</h2>
 <p>
   <ul>
-    <li>💻Spring Boot, Spring Jpa, Security</li>
+    <li>💻Spring Boot, Spring Data Jpa, Spring Security</li>
     <li>☕Java</li>
     <li>MySql</li>
   </ul>
@@ -21,8 +21,10 @@ I have a desire to learn and grow more.
 
 <h2>Etc..</h2>
 <pre>
-거대한 토이프로젝트들은 모두 비공개 처리하였습니다.
+개인적으로 힘을 많이쓴 토이프로젝트는 비공개처리하였습니다.
+토이프로젝트 코드 공개는 많이 꺼리는 편입니다.
 공개된 repo들은 fork 하셔도 상관없습니다.
+또한 study 폴더에 있는 공부 정리들도 fork하셔도 상관없습니다.
 </pre>
 
 
