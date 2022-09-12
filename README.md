@@ -18,6 +18,7 @@ I have a desire to learn and grow more.
     <li>💻Spring Boot, Spring Data Jpa, Spring Security</li>
     <li>☕Java</li>
     <li>MySql</li>
+    <li>thymeleaf</li>
   </ul>
 </p>
 
