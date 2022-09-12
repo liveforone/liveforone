@@ -7,15 +7,19 @@ I have a desire to learn and grow more.
 </pre>
 <h2>School</h2>
 <p>
-  🎓School : HanSung University in Seoul
-  🎓Major : Computer Science 2022~
+  <ul>
+    <li>🎓School : HanSung University in Seoul</li>
+    <li>🎓Major : Computer Science 2022~</li>
+  </ul>
 </p>
 <h2>Skill</h2>
+<p>
   <ul>
     <li>💻Spring Boot, Spring Data Jpa, Spring Security</li>
     <li>☕Java</li>
     <li>MySql</li>
   </ul>
+</p>
 
 <h2>Etc..</h2>
 <pre>
