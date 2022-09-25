@@ -26,6 +26,8 @@ I have a desire to learn and grow more.
 <pre>
 프로젝트의 fork를 좋아하지않습니다..
 fork는 지양해주시기바랍니다.
+I don't like someone forking my repos..
+So please don't fork my repository.
 </pre>
 
 
