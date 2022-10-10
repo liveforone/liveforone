@@ -3,7 +3,7 @@
 <pre>
 I'm Backend Software Engineer.
 I'm very interested in the text-based service.
-I have a desire to learn and grow more.
+I'm creator, not manufacturer.
 </pre>
 <h2>School</h2>
 <p>
