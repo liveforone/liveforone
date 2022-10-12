@@ -1,34 +1,28 @@
-<h1>Hello👋 I'm Chan Kim</h1>
-<h2>about me</h2>
-<pre>
-I'm Backend Software Engineer.
-I'm very interested in the text-based service.
-I'm creator, not manufacturer.
-</pre>
-<h2>School</h2>
-<p>
-  <ul>
-    <li>🎓School : HanSung University in Seoul</li>
-    <li>🎓Major : Computer Science 2022~</li>
-  </ul>
-</p>
-<h2>Skill</h2>
-<p>
-  <ul>
-    <li>💻Spring Boot, Spring Data Jpa, Spring Security</li>
-    <li>☕Java</li>
-    <li>MySql</li>
-    <li>thymeleaf</li>
-  </ul>
-</p>
+# Hello👋 I'm Chan Kim
+## About Me
+* I'm Backend Software Engineer.
+* I'm very interested in the text-based service.
+* I'm creator, not manufacturer.
 
-<h2>Etc..</h2>
-<pre>
+## School
+* 🎓School : HanSung University in Seoul
+* 🎓Major : Computer Science 2022~
+## Skill
+* 💻Spring Boot, Spring Data Jpa, Spring Security
+* ☕Java
+* MySql
+* thymeleaf - template engine
+## About Project
+* 주로 rest-api 서버를 만듭니다.
+* 뷰는 잘 작업하지 않습니다.
+* postman으로 테스트 해보고 리드미에 문서화 하는 것을 지향합니다.
+## Etc..
+```
 프로젝트의 fork를 좋아하지않습니다..
 fork는 지양해주시기바랍니다.
 I don't like someone forking my repos..
 So please don't fork my repository.
-</pre>
+```
 
 
 <!--
