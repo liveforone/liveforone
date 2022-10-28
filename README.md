@@ -11,7 +11,7 @@
 * 💻Spring Boot, Spring Data Jpa, Spring Security
 * ☕Java
 * MySql
-* thymeleaf - template engine
+* thymeleaf
 ## About Project
 * 주로 rest-api 서버를 만듭니다.
 * 뷰는 잘 작업하지 않습니다.
