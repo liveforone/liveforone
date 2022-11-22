@@ -3,6 +3,7 @@
 * I'm Backend Software Engineer.
 * I'm very interested in the text-based service.
 * I'm creator, not manufacturer.
+* I'm trying to write a code that can find beauty in my code.
 
 ## School
 * 🎓School : HanSung University in Seoul
