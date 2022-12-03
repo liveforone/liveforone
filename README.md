@@ -5,8 +5,8 @@
 * I'm very interested in the text-based service.
 * I'm creator, not manufacturer.
 * I'm trying to write a code that can find beauty in my code.
-* 아름다움을 찾을 수 있는 코드, 클린하고 깊은 고민의 흔적이 남아있는 코드를 작성하기를 지향합니다.
-* traces of anguish, 코드에는 고뇌의 흔적이라는 아름다운 흔적들이 남아있길 원합니다.
+* 아름다움을 찾을 수 있는 코드, 클린한 코드를 작성하기를 지향합니다.
+* traces of anguish, 고뇌의 흔적들, 코드 한 줄 한 줄 깊은 고민을 하며 타자를 치는 개발자입니다.
 
 ## School
 * 🎓School : HanSung University in Seoul
