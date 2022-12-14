@@ -7,7 +7,7 @@
 * I'm trying to write a code that can find beauty in my code.
 * 아름다움을 찾을 수 있는 코드, 클린한 코드를 작성하기를 지향합니다.
 * traces of anguish, 고뇌의 흔적들, 코드 한 줄 한 줄 깊은 고민을 하며 타자를 치는 개발자입니다.
-* 리팩토링을 좋아합니다. 코드를 되돌아보고 코드를 더 아름답게 탈바꿈하는 것을 좋아합니다. 이것이 개발을 좋아하는 이유입니다.
+* 리팩토링을 좋아합니다. 코드를 되돌아보고 코드를 더 아름답게 탈바꿈하는 것을 좋아합니다. 이것이 제가 개발을 좋아하는 이유입니다.
 
 ## School
 * 🎓School : HanSung University in Seoul
