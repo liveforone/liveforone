@@ -1,13 +1,13 @@
 # Hello👋 I'm Chan Kim
 
 ## About Me
-* I'm Backend Software Engineer.
-* I'm very interested in the text-based service.
 * I'm creator, not manufacturer.
-* I'm trying to write a code that can find beauty in my code.
+* 백엔드 개발자 입니다.
 * 아름다움을 찾을 수 있는 코드, 클린한 코드를 작성하기를 지향합니다.
 * traces of anguish, 고뇌의 흔적들, 코드 한 줄 한 줄 깊은 고민을 하며 타자를 치는 개발자입니다.
-* 리팩토링을 좋아합니다. 코드를 되돌아보고 코드를 더 아름답게 탈바꿈하는 것을 좋아합니다. 이것이 제가 개발을 좋아하는 이유입니다.
+* 리팩토링을 좋아합니다. 코드를 되돌아보고 코드를 더 아름답게 탈바꿈하는 것을 좋아합니다. 이
+* 새롭게 알게되는 좋은 코드 작성법을 스타일 가이드로써 기록하고 프로젝트에 적용시킵니다.
+* 나만의 스타일 가이드를 하나 하나 완성시켜가는 재미로 개발을 합니다.
 
 ## School
 * 🎓School : HanSung University in Seoul
