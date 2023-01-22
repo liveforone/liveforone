@@ -13,8 +13,8 @@
 * 🎓Major : Computer Science 2022~
 ## Skill
 * Spring Framework, Spring Boot, Spring Data Jpa, Spring Security, Jwt
-* Java
-* MySql
+* Java, Sql
+* MySql, Query Dsl
 * thymeleaf
 * Junit4, Junit5
 ## About Project
