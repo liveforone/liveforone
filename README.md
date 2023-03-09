@@ -12,7 +12,7 @@
 * 🎓School : HanSung University in Seoul
 * 🎓Major : Computer Science 2022~
 ## Skill
-* Spring Framework(Boot), Spring Data Jpa, Spring Security, Sprign Cloud
+* Spring Framework(Boot), Spring Data Jpa, Spring Security, Spring Cloud
 * Kafka, Docker
 * Java
 * Jwt
