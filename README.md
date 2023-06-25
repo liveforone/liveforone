@@ -3,6 +3,7 @@
 ## About Me
 * I'm creator & problem solver, not manufacturer.
 * traces of anguish, 고뇌의 흔적들, 코드 한 줄 한 줄 깊은 고민을 하며 타자를 치는 개발자입니다.
+* 이러한 이유로 개발자의 실수를 줄일 수 있고, 우아한 코드를 표현할 수 있으며, 개발자의 많은 생각이 담긴 함수형 프로그래밍을 좋아합니다. 
 * 리팩토링을 좋아합니다. 코드를 되돌아보고 **코드를 더 아름답게** 탈바꿈하는 것을 좋아합니다. 
 * 제가 생각하는 프로그래머의 본질은 **문제 해결**과 **비즈니스 밸류 창출**이라고 생각합니다.
 * 이에 따라 엔지니어의 관점에서만 머무는 것이 아닌, 한발 더 나아가 비즈니스의 관점으로 프러덕트를 생각하고 설계합니다.
@@ -12,14 +13,13 @@
 * 🎓School : HanSung University in Seoul
 * 🎓Major : Computer Science 2022~
 ## Skill
+* Kotlin, Java, MySql
 * Spring Framework, Spring Boot
 * Spring Security, Jwt
 * Spring Cloud, Docker
 * Spring Data Jpa, Query Dsl
 * Kafka
-* Java, MySql 
-* Junit4, Junit5
-* thymeleaf
+* Junit5
 ## About Project
 ### Intelligent Project
 * intelligent로 시작하는 프로젝트들은 하나의 회사에 다양한 서비스가 존재하듯이, 
