@@ -17,7 +17,7 @@
 * Spring Framework, Spring Boot
 * Spring Security, Jwt
 * Spring Cloud, Docker
-* Spring Data Jpa, Query Dsl
+* Spring Data Jpa, JDSL, Query Dsl
 * Kafka
 * Junit5
 ## About Project
