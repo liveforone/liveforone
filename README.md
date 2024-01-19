@@ -16,24 +16,20 @@
 * 🎓School : HanSung University in Seoul
 * 🎓Major : Computer Science 2022~
 ## Skill
-* Kotlin, Java, Typescript
+* Kotlin, Java
 * MySql, Postgressql
-* Spring Framework, Spring Boot, NestJS
+* Spring Framework, Spring Boot
 * Spring Security, Jwt
 * Spring Cloud, Docker
-* Spring Data Jpa, JDSL, Query Dsl, TypeORM
+* Spring Data Jpa, JDSL, Query Dsl
 * Kafka
-* Junit5, Jest
+* Junit5
 ## About Project
 ### Project Intro
 * 저는 주로 rest-api 서버를 만듭니다. 뷰는 잘 작업하지 않습니다.
 * 좋은 코드 스타일을 고민하다 발견하면 그 즉시 프로젝트에 적용하여 리팩토링합니다.
 * 프로젝트를 방치하지 않습니다. 되돌아보고, 생각하고, 더 나은 코드로 탈바꿈 시킵니다.
 * 제 프로젝트가 "좋은 프로젝트, 좋은 코드, 좋은 문서화"의 교과서 역할을 하길 바라며 작업합니다.
-## others
-* 자바(코틀린) 기반의 백엔드 프레임워크를 선호합니다. 그러나 Layerd architecture 형태의 node 기반인 NestJS도 좋아합니다.
-* 자유도가 높은 아키텍처의 프레임워크보다는 안전한 프레임워크를 선호합니다.
-* 자바와 Node 생태계 둘다 편하기 때문에 두 생태계에서 모두 작업하는 것이 어렵지 않습니다.
 ## Etc..
 * 프로젝트의 fork를 좋아하지않습니다..
 * fork는 지양해주시기바랍니다.
