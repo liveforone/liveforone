@@ -16,14 +16,14 @@
 * 🎓School : HanSung University in Seoul
 * 🎓Major : Computer Science 2022~
 ## Skill
-* Kotlin, Java
+* Kotlin, Java, Typescript
 * MySql, Postgressql
-* Spring Framework, Spring Boot
+* Spring Framework, Spring Boot, NestJS
 * Spring Security, Jwt
 * Spring Cloud, Docker
 * Spring Data Jpa, JDSL, Query Dsl
 * Kafka
-* Junit5
+* Junit5, Jest
 ## About Project
 ### Project Intro
 * 저는 주로 rest-api 서버를 만듭니다. 뷰는 잘 작업하지 않습니다.
