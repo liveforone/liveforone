@@ -11,6 +11,7 @@
 * 대부분의 프로젝트에서 주로 슬로우 쿼리를 해결하고, 동적 쿼리에서 최대한의 퍼포먼스를 끌어내는 것에 대해 기술하는 편입니다.
 * 백엔드 시스템 자체에 대한 고민과 문제해결도 생각하지만 주로 쿼리와 DB에 대해서 고민하고 문제를 해결해내는 편입니다.
 * 비즈니스, 기술, 현실의 문제 등 다양한 문제가 공존하는 소프트웨어 세상에서 가장 효율적인 방식으로 해결책을 도출해내는 개발자입니다.
+* Spring 생태계와 Node 생태계를 모두 다룹니다. Node는 NestJS/Prisma를 주 스택으로 사용합니다.
 
 ## School
 * 🎓School : HanSung University in Seoul
@@ -21,7 +22,7 @@
 * Spring Framework, Spring Boot, NestJS
 * Spring Security, Jwt
 * Spring Cloud, Docker
-* Spring Data Jpa, JDSL, Query Dsl
+* Spring Data Jpa, JDSL, Query Dsl, Prisma
 * Kafka
 * Junit5, Jest
 ## About Project
