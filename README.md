@@ -26,6 +26,8 @@
 * Kafka
 * Junit5, Jest
 ## About Project
+### Npm publish project
+* [prisma-no-offset : no-offset 쿼리 지원 라이브러리](https://www.npmjs.com/package/prisma-no-offset)
 ### Project Intro
 * 저는 주로 rest-api 서버를 만듭니다. 뷰는 잘 작업하지 않습니다.
 * 좋은 코드 스타일을 고민하다 발견하면 그 즉시 프로젝트에 적용하여 리팩토링합니다.
