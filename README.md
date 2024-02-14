@@ -28,7 +28,7 @@
 ## About Project
 ### Open Source
 1. [prisma-no-offset](https://www.npmjs.com/package/prisma-no-offset)
- - prisma에서 no-offset(cursor-based) 페이징을 편리하게 사용할 수 있도록 제작한 쿼리 라이브러리입니다.
+   * prisma에서 no-offset(cursor-based) 페이징을 편리하게 사용할 수 있도록 제작한 쿼리 라이브러리입니다.
 ### Project Intro
 * 저는 주로 rest-api 서버를 만듭니다. 뷰는 잘 작업하지 않습니다.
 * 좋은 코드 스타일을 고민하다 발견하면 그 즉시 프로젝트에 적용하여 리팩토링합니다.
