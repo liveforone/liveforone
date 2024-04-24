@@ -18,11 +18,12 @@
 * 🎓Major : Computer Science 2022~
 ## Skill
 * Kotlin, Java, Typescript
-* MySql, Postgressql
-* Spring Framework, Spring Boot, NestJS
+* MySql, Postgressql, Redis
+* Spring Framework, NestJS
 * Spring Security, Jwt
 * Spring Cloud, Docker
-* Spring Data Jpa, JDSL, Query Dsl, Prisma
+* Spring Data Jpa, Prisma
+* Query Dsl, JDSL
 * Kafka
 * Junit5, Jest
 ## About Project
