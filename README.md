@@ -10,16 +10,17 @@
 * 성능을 저하시키는 다양한 문제를 최적화하여 더 좋은 성능을 끌어내는데에 큰 관심이 있습니다.
 * 사용자의 경험을 더욱 향상시키고 또한 제품의 비즈니스적 가치 창출을 가속화 할 수 있는 방안을 찾는데 노력을 기울입니다.
 * 비즈니스, 기술, 현실의 문제 등 다양한 문제가 공존하는 소프트웨어 세상에서 가장 효율적인 방식으로 해결책을 도출해내는 개발자입니다.
-* 기술 스택으로는 Spring 생태계와 Node 생태계를 모두 다룹니다.
+* 기술 스택으로는 Spring 생태계와 Node 생태계를 모두 다룹니다. 양 생태계를 놓치지 않기위해 번갈아가며 꾸준히 프로젝트 및 공부를 진행하고 있습니다.
 
 ## School
 * 🎓School : HanSung University in Seoul
 * 🎓Major : Computer Science 2022~
 ## Skill
-* Kotlin, Java, Typescript
-* MySql, Postgressql, Redis(valkey)
-* Spring Framework(Security, Jpa, QueryDSL, Cloud, JDSL, Junit5)
-* NestJS(Prisma, Jest)
+* Lang : Kotlin, Java, Typescript
+* DB : MySql, Postgressql, Redis(valkey)
+* ORM : JPA(+ Query DSL, JDSL), Prisma
+* Framework : Spring Framework(Security, Cloud), NestJS, Fastify
+* Testing : Junit5, Jest, Vitest
 ## About Project
 ### Open Source
 1. [prisma-common-error-handle](https://www.npmjs.com/package/prisma-common-error-handle)
@@ -31,8 +32,3 @@
 * 또한 귀찮은 작업을 자동화하는 오픈소스와 언어&프레임워크의 한계를 극복하는 성능 최적화 오픈소스를 개발합니다.
 * 제품의 목적과 현재 가진 자원을 분석하여 trade off를 통해 현명한 결정을 내리는 시뮬레이션에 집중합니다. 그러한 흔적들이 곳곳에 남아있습니다.
 * 제 프로젝트가 "좋은 프로젝트, 좋은 코드, 좋은 문서화"의 교과서 역할을 하길 바라며 작업합니다.
-## Etc..
-* 프로젝트의 fork를 좋아하지않습니다..
-* fork는 지양해주시기바랍니다.
-* I don't like someone forking my repos..
-* So please don't fork my repos...
